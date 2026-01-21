@@ -1,4 +1,5 @@
 Security Vulnerabilities
+
     1. SQL injection
     Directly using $_GET['id'], $_GET['site_id'] and $booking['email'] in SQL queries.
     2. No input Validation 
